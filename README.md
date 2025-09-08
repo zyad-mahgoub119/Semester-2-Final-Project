@@ -71,7 +71,3 @@ Potential improvements could include:
 - Additional reporting features
 - Parent portal access
 - Mobile application support
-
----
-
-*This project demonstrates practical application of C++ programming concepts to solve real-world problems in educational administration.*
