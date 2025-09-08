@@ -1,18 +1,13 @@
 /*
-This C++ module provides a simple, console-based authentication system for a school management application. It handles user login, role-based access control, and user information retrieval.
 
-Features
+This code provides a simple, console-based authentication system for a school management application. It handles user login, role-based access control, and user information retrieval.
 Role-Based Access: Defines distinct Manager and Teacher roles with different permissions.
-
 User Management: Includes predefined accounts for multiple managers and teachers.
-
 Secure Login: Authenticates users by verifying their username and password.
-
 User Information Retrieval: Functions to retrieve a user's role and display name after a successful login.
-
 Teacher List: Provides a utility function to get a list of all teachers in the system.
-
 This contributions was made by Zyad Akram Mahgoub
+
 */
 
 
