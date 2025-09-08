@@ -2,7 +2,7 @@
 the code provides functionality to add lessons, assign homework assignments, and mark lesson completion status. 
 The system stores data in text files (lessons and homework) specific to each class, allowing teachers to track curriculum progress, assign tasks with deadlines, and record student performance marks. 
 The menu-driven interface supports operations like adding/removing assignments, modifying deadlines, and updating lesson status while maintaining persistent storage through file handling operations.
-This contribution has been made by Mohamed Ehab Sayed
+This contribution was been made by Mohamed Ehab Sayed
 */
 
 
