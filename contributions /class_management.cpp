@@ -1,11 +1,8 @@
 /*
 
 This C++ code module implements a **class management system** that allows users to create academic classes, assign teachers to them, enroll students, and persistently store this information in text files.
-
 It provides a console-based menu interface for performing these operations and integrates with an external authentication system to validate that only registered teachers can be assigned to classes. 
-
 The system loads existing data on startup and saves any changes upon exit, maintaining a record of classes, their assigned teachers, and student rosters between sessions.
-
 This contribution was been made by Ziad Ahmed Mohamed El-Bahy (elbahy999)
 
 */
