@@ -6,7 +6,7 @@ User Management: Includes predefined accounts for multiple managers and teachers
 Secure Login: Authenticates users by verifying their username and password.
 User Information Retrieval: Functions to retrieve a user's role and display name after a successful login.
 Teacher List: Provides a utility function to get a list of all teachers in the system.
-This contributions was made by Zyad Akram Mahgoub
+This contributions was made by Zyad Akram Mahgoub (zyad-mahgoub119)
 
 */
 
