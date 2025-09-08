@@ -72,7 +72,7 @@ void lessons() {
         }
         cout << "Choose an option (1-4): ";
         cin >> choice;
-        cin.ignore(); // Clear input buffer
+        cin.ignore(); 
 
         if (choice < 1 || choice > 4) {
             cout << "Invalid choice! Please try again.\n";
@@ -89,7 +89,7 @@ void lessons() {
             continue;
         }
 
-        // Display available classes
+ 
         cout << "\nAvailable Classes:\n";
         for (size_t i = 0; i < allClasses.size(); i++) {
             cout << i + 1 << ". " << allClasses[i].name << "\n";
@@ -97,7 +97,7 @@ void lessons() {
         cout << "Choose class number: ";
         size_t classChoice;
         cin >> classChoice;
-        cin.ignore(); // Clear input buffer
+        cin.ignore(); 
 
         if (classChoice < 1 || classChoice > allClasses.size()) {
             cout << "Invalid class choice.\n";
