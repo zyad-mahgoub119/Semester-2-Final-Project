@@ -4,7 +4,8 @@ The Income class calculates total earnings from annual student fees and monthly 
 including salaries for teachers and workers, and other expenses like maintenance and management wages. 
 The financeManagement function provides a user-friendly menu to access these reports, allowing users to view income, expenses, or both, and input variable costs like maintenance. 
 This structure uses object-oriented programming to keep the financial data organized and easy to report.
-This contribution was made by Abdelrahman Sapry Abd El-Aziz 
+This contribution was made by Abdelrahman Sapry Abd El-Aziz  (PavoDirac)
+
 */
   
 // ==================== FINANCIAL MANAGEMENT ====================
