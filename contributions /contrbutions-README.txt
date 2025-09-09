@@ -1,0 +1,6 @@
+- Abdelrahman Sapry Abd El-Aziz — Financial Managment (see `contributions/financial_managment.cpp`)
+- Zyad Akram Mahgoub — Authentication Module - Code Integration (see `contributions/authentication_module.cpp`, `contributions/main_function.cpp`)
+- Seif El-Deen Mohamed Hussein — Attendance Managment (see `contributions/attendance_managment.cpp`)
+- Rodaina Gamal Moustafa 42410224 — Grade Management (see `contributions/grade_management.cpp`)
+- Mohamed Ehab Sayed  42410317 — Lesson Management (see `contributions/lesson_management.cpp`)
+- Ziad Ahmed Mohamed 42410133 — Class Management (see `contributions/class_management.cpp`)
