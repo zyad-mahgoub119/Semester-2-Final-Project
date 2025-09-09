@@ -4,7 +4,7 @@ This C++ module provides a system for tracking and managing student attendance w
 Designed for seamless integration, it efficiently handles the recording, viewing, and reporting of attendance data. 
 Key features include: Attendance Marking for students by class, saving records to a local text file (attendance.txt) to ensure Data Persistence, the ability to View Attendance 
 History for any specific class, and a function to generate a Monthly Report for any student, showing their attendance status for the last 30 days.
-This code was contributed by Seif El-Deen Mohamed Hussein ()
+This code was contributed by Seif El-Deen Mohamed Hussein (seifmohamed1412)
 */
 
 // ==================== ATTENDANCE MANAGEMENT ====================
